@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1528451088 source:e:\dokumenty\pamsi\gierkakik\main.cpp
+	<vector>
+	"kik.hpp"
+	<iostream>
+
+1528451124 e:\dokumenty\pamsi\gierkakik\kik.hpp
+	<vector>
+
+1528450161 source:e:\dokumenty\pamsi\gierkakik\kik.cpp
+	"kik.hpp"
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<array>
+
